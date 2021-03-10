@@ -1,6 +1,7 @@
 {
     "name": "pr00xxy/fizzbuzz",
     "description": "Template project that was used in a TDD workshop",
+    "version": "1.0.0",
     "type": "library",
     "require": {
         "php": ">7.1",
